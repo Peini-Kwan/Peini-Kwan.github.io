@@ -25,11 +25,11 @@ author_profile: true
 
 ### Ph.D. Thesis
 
- * Dissertation submitted to [DUT](https://www.dlut.edu.cn/):
+ * Dissertation submitted to [DUT](https://www.dlut.edu.cn/) (Defended on Dec 2023):
    * **Research on Test Program Construction Approaches for Compiler Testing and Debugging**
      * **(in Chinese: 面向编译器测试与调试的程序构造方法研究)** [[Thesis]](https://haoxintu.github.io/files/dut_thesis.pdf) [[Slides]](https://haoxintu.github.io/files/dut_phd_thesis_defense_slides.pdf)
- * Dissertation submitted to [SMU](https://www.smu.edu.sg/):
-   * **Boosting Symbolic Execution for Vulnerablity Detection** [To appear]
+ * Dissertation submitted to [SMU](https://www.smu.edu.sg/) (Defended on May 2025):
+   * **Boosting Symbolic Execution for Vulnerablity Detection** [[Thesis]](https://haoxintu.github.io/files/smu_thesis.pdf) [[Slides]](https://haoxintu.github.io/files/smu_phd_thesis_defense_slides.pdf)
 
 
 {% if author.googlescholar %}
