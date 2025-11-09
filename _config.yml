@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Haoxin Tu (涂浩新)"
-  avatar           : "thx-2024.png"
+  avatar           : "thx.png"
   bio              : "Research Fellow at NUS, interested in fuzzing, compiler testing, and program analysis"
   location         : "NUS, Singapore" #"Dalian, China"
   employer         :
