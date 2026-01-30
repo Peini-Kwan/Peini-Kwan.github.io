@@ -2,8 +2,6 @@
 title: "Sentiment Analysis and Topic Modeling of The North Face Store on Amazon E-commerce"
 excerpt: "NLP project using RoBERTa and BERTopic to analyze Amazon customer reviews"
 collection: portfolio
-date: 
-last_modified_at:
 ---
 
 The North Face Sentiment & Topic Analysis (Amazon)
