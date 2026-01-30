@@ -2,6 +2,7 @@
 title: "Sentiment Analysis and Topic Modeling of The North Face Store on Amazon E-commerce"
 excerpt: "NLP project using RoBERTa and BERTopic to analyze Amazon customer reviews <br/><img src='/images/6.png'>"
 collection: portfolio
+show date: false
 ---
 
 The North Face Sentiment & Topic Analysis (Amazon)
@@ -26,7 +27,12 @@ Key Insights:
 Rating vs. Sentiment: Identified products with high star ratings but low "compound scores," revealing strategic reviewer behavior.
 Business Impact: Mapped specific customer pain points to brand advocacy and product validation strategies. 
 
-_portfolio/north-face-analysis.md file: ![Descriptive Title](/images/1.png)
+Diagrams: 
+![Diagram1](/images/1.png)
+![Diagram1](/images/2.png)
+![Diagram1](/images/3.png)
+![Diagram1](/images/4.png)
+![Diagram1](/images/5.png)
 
 [Download Project Presentation (PDF)](/files/NLP_Project.pdf)
 
