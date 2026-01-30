@@ -23,4 +23,6 @@ Key Insights:
 Rating vs. Sentiment: Identified products with high star ratings but low "compound scores," revealing strategic reviewer behavior.
 Business Impact: Mapped specific customer pain points to brand advocacy and product validation strategies. 
 
+[Download Project Presentation (PDF)](/files/NLP-Sentiment_Analysis & Topic_Modelling.pdf)
 [View my Github Repo](https://www.github.com/peini-kwan)
+
