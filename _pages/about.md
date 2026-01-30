@@ -14,7 +14,7 @@ While I value the design discipline and problem-solving skills developed through
 
 Meanwhile, motivated by the rapid advancement of AI technologies and data-driven tools, I completed a part-time data science course in 2023 to gain exposure to data analysis and computational approaches. This experience not only strengthened my interest in technology but also exposed me to new ways of approaching problems beyond traditional architectural practice, especially in the context of AI and digital tools. which marked my first formal step into the tech domain.
 
-#Bridging Design and Data
+Bridging Design and Data
 ======
 Upon completing of the course, it confirmed my interest in technology as a powerful tool for innovation across industries. I am now focused on building a solid foundation in computing to formalise this way of thinking through algorithms, data structures, and computational methods, and to apply these skills to a wide range of real-world challenges.
 
