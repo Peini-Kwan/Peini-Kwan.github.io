@@ -1,0 +1,28 @@
+---
+title: "Intelligent Business Operations Concierge Agent (IBOCA)"
+excerpt: "Unified AI Orchestration for Modern Business Efficiency <br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
+
+## Project Overview
+(I) IBOCA is a production-ready AI concierge that transforms fragmented business operations into a unified, intelligent interface. It uses a **Conductor-Orchestra model** where a central agent coordinates specialized sub-agents for HR, IT, and Data Analytics.
+(II) A unified AI orchestration system that replaces fragmented business tools with a single, intelligent interface. Using a "Conductor-Orchestra" model, IBOCA coordinates specialized sub-agents to automate HR, IT, and data analysis tasks, reducing operational friction by up to 90% and cutting support costs by 80%.
+
+-Architecture: Implemented a central Orchestrator using natural language understanding (NLU) to route tasks to domain-specific agents (Support, Workflow, Data Analysis).
+
+-Key Tech: Integrated Tool Ecosystems (OpenAPI, MCP), context-aware memory management, and structured observability logging.
+
+-Impact: Demonstrated a 94% reduction in IT resolution times and an 85% first-contact resolution rate through automated sequential workflows and parallel processing.
+
+-Deployment: Containerized via Docker and deployed on Google Cloud Run for high scalability.
+
+## Key Technical Innovations
+* **Orchestrator Agent:** Handles intent classification and dynamic routing.
+* **Multi-Agent Intelligence:** Supports parallel processing for data analysis and sequential workflows for approvals.
+* **Memory Management:** Features session-based short-term memory and pattern-learning long-term memory.
+* **Deployment:** Containerized with Docker and optimized for Google Cloud Run.
+
+## Measurable Impact
+* **94% reduction** in IT resolution times (4 hours to 15 minutes).
+* **80% reduction** in customer support costs.
+* **85% first-contact resolution rate.**
